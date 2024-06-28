@@ -7,6 +7,7 @@ I'm a full-stack developer building my version of the digital world one step at 
 <br />
 [![GMail Badge](https://img.shields.io/badge/giannes.bernardino@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giannes.bernardino@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/mgdino-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-bernardino/) 
+
 ---
 
 ### 🧰 Languages and Tools
@@ -32,5 +33,5 @@ I'm a full-stack developer building my version of the digital world one step at 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mgdino/mgdino/footer.svg" alt="Footer waves" />
+        <img src="https://raw.githubusercontent.com/mgdino/mgdino/main/footer.svg" alt="Footer waves" />
 </p>
