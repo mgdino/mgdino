@@ -1,0 +1,61 @@
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+
+svg {
+  width:110vw;
+  position:fixed;
+  top:-5px;
+  transform: rotate(360deg);
+  overflow:visible;
+}
+
+.wave {
+  animation: wave 3s linear;
+  animation-iteration-count:infinite;
+  fill: #63b3ed;  
+}
+
+.wave:hover {
+  fill: #fff;
+}
+
+#wave2 {
+  animation-duration: 42s;
+  animation-direction: reverse;
+  opacity: .9;
+}
+
+#wave3 {
+  animation-duration: 21s;
+  opacity:.6;
+}
+
+@keyframes wave {
+  to {transform: translateX(-700%);}
+}
+
+</style>
+
+ <defs> 
+<path id="wave" d="M 0,10 
+                  C 30,10 30,15 60,15 
+                  90,15 90,10 120,10 
+                  150,10 150,15 180,15 
+                  210,15 210,10 240,10 
+                  C 270,10 270,15 300,15 
+                  330,15 330,10 360,10 
+                  390,10 390,15 420,15 
+                  450,15 450,10 480,10 
+                  C 510,10 510,15 540,15 
+                  570,15 570,10 600,10 
+                  630,10 630,15 660,15 
+                  690,15 690,10 720,10 
+                  C 750,10 750,15 780,15 
+                  810,15 810,10 840,10 
+                  870,10 870,15 900,15 
+                  930,15 930,10 960,10 
+                  v 28 
+                  h -960 z" />  </defs> 
+  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
+  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
+</svg>
