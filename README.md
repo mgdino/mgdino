@@ -7,8 +7,8 @@ I'm a full-stack developer building my version of the digital world one step at 
 
 <br />
 
-[![GMail Badge](https://img.shields.io/badge/giannes.bernardino@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giannes.bernardino@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/mgdino-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-bernardino/) 
+[![GMail Badge](https://img.shields.io/badge/gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giannes.bernardino@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-bernardino/) 
 
 ---
 
@@ -29,6 +29,12 @@ I'm a full-stack developer building my version of the digital world one step at 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+
+### Where to find me
+[![Github Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white")](https://github.com/mgdino)
+[![GMail Badge](https://img.shields.io/badge/gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giannes.bernardino@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-bernardino/) 
 
 #
 
