@@ -29,12 +29,10 @@ I'm a full-stack developer building my version of the digital world one step at 
 <br />
 
 
-### 💬 Where to find me
+### 💬 Where to Find Me
 [![Github Badge](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white")](https://github.com/mgdino)
 [![GMail Badge](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giannes.bernardino@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-bernardino/) 
-
-<br />
 
 #
 
