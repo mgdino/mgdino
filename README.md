@@ -6,7 +6,7 @@ I'm a full-stack developer building my version of the digital world one step at 
 </p>
 <br />
 
-#
+---
 
 ### 🧰 Languages and Tools
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -28,5 +28,5 @@ I'm a full-stack developer building my version of the digital world one step at 
 
 #
 
-### 📊 Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mgdino&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![GMail Badge](https://img.shields.io/badge/giannes.bernardino@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giannes.bernardino@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/mgdino-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gian-bernardino/) 
